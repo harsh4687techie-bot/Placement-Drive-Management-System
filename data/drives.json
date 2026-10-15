@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DRV-101",
+    "companyName": "Google Cloud",
+    "jobRole": "Software Development Engineer",
+    "packageLpa": 24.5,
+    "minCgpa": 8.5,
+    "eligibleBranches": [
+      "CSE",
+      "IT"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Algorithms",
+      "System Design"
+    ],
+    "maxBacklogs": 0,
+    "applicationDeadline": "2026-11-30",
+    "status": "ACTIVE",
+    "jobDescription": "Core backend development role working on distributed cloud services.",
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "DRV-102",
+    "companyName": "Amazon AWS",
+    "jobRole": "Cloud Support Associate",
+    "packageLpa": 14.0,
+    "minCgpa": 7.2,
+    "eligibleBranches": [
+      "CSE",
+      "IT",
+      "ECE"
+    ],
+    "requiredSkills": [
+      "Linux",
+      "Networking",
+      "Python"
+    ],
+    "maxBacklogs": 0,
+    "applicationDeadline": "2026-12-15",
+    "status": "ACTIVE",
+    "jobDescription": "Consulting enterprise customers on AWS infrastructure and operations.",
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "DRV-103",
+    "companyName": "Infosys Limited",
+    "jobRole": "Specialist Programmer",
+    "packageLpa": 9.5,
+    "minCgpa": 6.5,
+    "eligibleBranches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "ME",
+      "CE"
+    ],
+    "requiredSkills": [
+      "Java",
+      "SQL"
+    ],
+    "maxBacklogs": 1,
+    "applicationDeadline": "2026-11-20",
+    "status": "ACTIVE",
+    "jobDescription": "Full stack software engineer delivering digital transformation projects.",
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "DRV-104",
+    "companyName": "Tata Motors",
+    "jobRole": "Graduate Engineer Trainee",
+    "packageLpa": 7.5,
+    "minCgpa": 6.5,
+    "eligibleBranches": [
+      "ME",
+      "ECE"
+    ],
+    "requiredSkills": [
+      "CAD",
+      "Thermodynamics"
+    ],
+    "maxBacklogs": 0,
+    "applicationDeadline": "2026-10-01",
+    "status": "COMPLETED",
+    "jobDescription": "Automotive design and powertrain testing engineer.",
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "23bbe7fe-fd5e-44b5-b6ef-c00f3c2a8ee4",
+    "companyName": "SmokeTech AI",
+    "jobRole": "Lead Distributed Engineer",
+    "packageLpa": 32.5,
+    "minCgpa": 9.0,
+    "eligibleBranches": [
+      "CSE",
+      "IT"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Algorithms",
+      "System Design"
+    ],
+    "maxBacklogs": 0,
+    "applicationDeadline": "2026-12-31",
+    "status": "ACTIVE",
+    "jobDescription": "High scale backend services",
+    "createdAt": "2026-10-15T05:41:36.844532400Z",
+    "updatedAt": "2026-10-15T05:41:36.844532400Z"
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "STU-001",
+    "rollNumber": "21CS001",
+    "fullName": "Aarav Sharma",
+    "branch": "CSE",
+    "cgpa": 9.42,
+    "skills": [
+      "Java",
+      "Algorithms",
+      "System Design",
+      "Spring Boot",
+      "SQL"
+    ],
+    "email": "aarav.sharma@college.edu",
+    "phone": "9876543210",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-002",
+    "rollNumber": "21CS002",
+    "fullName": "Ananya Iyer",
+    "branch": "CSE",
+    "cgpa": 8.85,
+    "skills": [
+      "Java",
+      "Algorithms",
+      "React",
+      "SQL"
+    ],
+    "email": "ananya.iyer@college.edu",
+    "phone": "9876543211",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-003",
+    "rollNumber": "21IT001",
+    "fullName": "Rohan Mehta",
+    "branch": "IT",
+    "cgpa": 8.35,
+    "skills": [
+      "Java",
+      "Algorithms",
+      "System Design",
+      "Docker"
+    ],
+    "email": "rohan.mehta@college.edu",
+    "phone": "9876543212",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-004",
+    "rollNumber": "21IT002",
+    "fullName": "Pooja Verma",
+    "branch": "IT",
+    "cgpa": 7.9,
+    "skills": [
+      "Python",
+      "Linux",
+      "Networking",
+      "AWS"
+    ],
+    "email": "pooja.verma@college.edu",
+    "phone": "9876543213",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-005",
+    "rollNumber": "21EC001",
+    "fullName": "Kunal Singhania",
+    "branch": "ECE",
+    "cgpa": 7.45,
+    "skills": [
+      "Linux",
+      "Networking",
+      "Python",
+      "Embedded C"
+    ],
+    "email": "kunal.s@college.edu",
+    "phone": "9876543214",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-006",
+    "rollNumber": "21EC002",
+    "fullName": "Sneha Kulkarni",
+    "branch": "ECE",
+    "cgpa": 7.1,
+    "skills": [
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "email": "sneha.k@college.edu",
+    "phone": "9876543215",
+    "backlogs": 1,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-007",
+    "rollNumber": "21ME001",
+    "fullName": "Vikram Rathore",
+    "branch": "ME",
+    "cgpa": 8.6,
+    "skills": [
+      "CAD",
+      "Thermodynamics",
+      "ANSYS",
+      "Matlab"
+    ],
+    "email": "vikram.r@college.edu",
+    "phone": "9876543216",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-008",
+    "rollNumber": "21ME002",
+    "fullName": "Aditya Patel",
+    "branch": "ME",
+    "cgpa": 6.8,
+    "skills": [
+      "CAD",
+      "Manufacturing",
+      "Java"
+    ],
+    "email": "aditya.p@college.edu",
+    "phone": "9876543217",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-009",
+    "rollNumber": "21CE001",
+    "fullName": "Divya Nair",
+    "branch": "CE",
+    "cgpa": 7.75,
+    "skills": [
+      "AutoCAD",
+      "STAAD Pro",
+      "Surveying"
+    ],
+    "email": "divya.nair@college.edu",
+    "phone": "9876543218",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-010",
+    "rollNumber": "21CS003",
+    "fullName": "Sameer Deshmukh",
+    "branch": "CSE",
+    "cgpa": 6.4,
+    "skills": [
+      "Java",
+      "SQL"
+    ],
+    "email": "sameer.d@college.edu",
+    "phone": "9876543219",
+    "backlogs": 2,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-011",
+    "rollNumber": "21IT003",
+    "fullName": "Tanvi Joshi",
+    "branch": "IT",
+    "cgpa": 9.15,
+    "skills": [
+      "Java",
+      "Algorithms",
+      "System Design",
+      "Python",
+      "Cloud"
+    ],
+    "email": "tanvi.j@college.edu",
+    "phone": "9876543220",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "STU-012",
+    "rollNumber": "21EC003",
+    "fullName": "Rahul Sundaram",
+    "branch": "ECE",
+    "cgpa": 6.95,
+    "skills": [
+      "Python",
+      "Linux",
+      "Networking"
+    ],
+    "email": "rahul.s@college.edu",
+    "phone": "9876543221",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:36:41.083366Z",
+    "updatedAt": "2026-10-15T05:36:41.083366Z"
+  },
+  {
+    "id": "0f098948-93f8-495d-b35c-359a25f4bc45",
+    "rollNumber": "21CS999",
+    "fullName": "SmokeTest Candidate",
+    "branch": "CSE",
+    "cgpa": 9.5,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Algorithms",
+      "System Design",
+      "SQL"
+    ],
+    "email": "smoketest@college.edu",
+    "phone": "9988776655",
+    "backlogs": 0,
+    "createdAt": "2026-10-15T05:41:36.798270200Z",
+    "updatedAt": "2026-10-15T05:41:36.798270200Z"
+  }
+]
