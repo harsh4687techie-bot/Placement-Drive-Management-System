@@ -1,0 +1,26 @@
+# Maven build output
+target/
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Storage folders (keep directory structure if needed, ignore contents)
+data/*.json
+data/*.tmp.*
+backups/*
+reports/*

@@ -1,0 +1,12 @@
+target/
+.git/
+.gitignore
+.dockerignore
+*.md
+*.bat
+data/
+backups/
+reports/
+.idea/
+*.iml
+.vscode/

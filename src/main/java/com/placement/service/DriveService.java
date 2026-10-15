@@ -9,7 +9,6 @@ import com.placement.repository.RegistrationRepository;
 import com.placement.util.DateTimeUtil;
 import org.springframework.stereotype.Service;
 
-import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
